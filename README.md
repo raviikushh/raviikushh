@@ -1,5 +1,11 @@
-# 💫 About Me:
-## Hi, I'm Ravi Kumar Kushwaha! 👋<br><br>📞 **Contact**: +91-7781872478 | 📧 **Email**: ravikushwaha2031@gmail.com | 🔗 **LinkedIn**: [linkedin/raviikushh](https://www.linkedin.com/in/raviikushh/)<br><br>### 🎓 Education<br>- Bachelor of Technology in Computer Science and Engineering (2020-2024)<br>  - Institute of Technical Research and Education, Odisha, India<br><br>### 🚀 Projects<br>#### Euphoria 2.0: A Music Player Web App<br>- **Tech Stack**: HTML, CSS, JavaScript<br>- Developed an interactive music player web application, "Euphoria Music," enhancing the music playback experience for 80% of users.<br>- Key Achievements:<br>  - Designed an intuitive user interface for effortless music selection and playback.<br>  - Improved compatibility with various devices, screen sizes, and introduced a dark theme, expanding the user base by 30%.<br>- **Project Link**: [Euphoria 2.0](https://raviikushh.github.io/Euphoria2.0/)<br><br>#### Password Generator<br>- **Tech Stack**: HTML, CSS, JavaScript<br>- Created a robust Password Generator web app that offers secure password generation and customization, bolstering online security for 50+ users.<br>- **Project Link**: [Password Generator](https://raviikushh.github.io/GenRandomPassword/)<br><br>### 💻 Technical Skills<br>- **Programming Languages**: Java, Python, HTML, CSS, JavaScript<br>- **Developer Tools**: VS Code, Cisco Packet Tracer, Filmora X<br><br>### 📜 Certifications<br>- JAVA Certification Course (Online)<br>- Certificate in DevOps Internals<br> placement as part of Scouts and Guides, fostering teamwork and coordination within a team of 120 for collective progress.<br><br>### 🧠 Additional Skills<br>- Cloud Computing (AWS, Terraform, BashScript, Docker)<br>- Object-Oriented Programming (OOPs)<br>- Database Management<br>- System, Operating System, Networking
+## 💫 About Me:
+
+Hi , I am Ravi Kumar Kushwaha, aspiring full stack developer 
+
+📞 **Contact**: +91-7781872478 | 📧 **Email**: ravikushwaha2031@gmail.com | 🔗 **LinkedIn**: [linkedin/raviikushh](https://linkedin.com/in/raviikushh/)<br><br>
+
+### 🎓 Education
+Bachelor of Technology in Computer Science and Engineering (2020-2024)  - Institute of Technical Research and Education, Odisha, India
 
 
 ## 🌐 Socials:
